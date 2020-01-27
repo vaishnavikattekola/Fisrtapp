@@ -1,0 +1,95 @@
+{
+  "status" : true,
+  "data":[{
+    "ID" : "0",
+    "Name" : "KNOWLEDGE LENS",
+    "Logo" : "https://www.google.com",
+    "Title" : "Knowledge Lens",
+    "Description" : "Knowledge Lens provides a collection of Lens that automates and simplify the discovery of hidden insights from Big Data. Our mission is to turn the dark data to meaningful business insights. We are Big Data Technology Geeks with extensive Industry expertise with wide range of Big Data Projects ranging from Big Data Engineering to Data Science."
+  },
+
+    {
+      "ID" : "1",
+      "Name" : "VMWARE",
+      "Logo" : "https://www.google.com",
+      "Title" : "Vmware",
+      "Description" : "VMware, Inc. is a publicly traded software company listed on the NYSE under stock ticker VMW. Dell Technologies is a majority share holder. VMware provides cloud computing and virtualization software and services. It was one of the first commercially successful companies to virtualize the x86 architecture."
+    },
+
+    {
+      "ID" : "2",
+      "Name" : "INFOSYS",
+      "Logo" : "https://www.google.com",
+      "Title" : "Infosys",
+      "Description" : "Infosys Limited is an Indian multinational corporation that provides business consulting, information technology and outsourcing services. ... Infosys is the second-largest Indian IT company after Tata Consultancy Services by 2017 revenue and 596th largest public company in the world based on revenue."
+    },
+
+    {
+      "ID" : "3",
+      "Name" : "WIPRO",
+      "Logo" : "https://www.google.com",
+      "Title" : "Wipro",
+      "Description" : "Wipro is an Indian multinational corporation that provides information technology, consulting and business process services. It is headquartered in Bangalore, Karnataka, India. In 2013, Wipro separated its non-IT businesses and formed the privately owned Wipro Enterprises."
+    },
+
+    {
+      "ID" : "4",
+      "Name" : "AMAZON",
+      "Logo" : "https://www.google.com",
+      "Title" : "Amazon",
+      "Description" : "Amazon is the largest Internet company by revenue in the world. ... Amazon was founded by Jeff Bezos in Bellevue, Washington, in July 1994. The company initially started as an online marketplace for books but later expanded to sell electronics, software, video games, apparel, furniture, food, toys, and jewelry."
+    },
+
+    {
+      "ID" : "5",
+      "Name" : "FLIPKART",
+      "Logo" : "https://www.google.com",
+      "Title" : "Flipkart",
+      "Description" : "Flipkart is the leader of e-commerce in the fast growing Indian market founded in 2007 by Sachin Bansal and Binny Bansal. The company focuses on goods such as electronics, books, music and movies. Consumers can access the site online or through an app on their mobile phones."
+    },
+
+    {
+      "ID" : "6",
+      "Name" : "MICROSOFT",
+      "Logo" : "https://www.google.com",
+      "Title" : "Microsoft",
+      "Description" : "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services"
+    },
+
+    {
+      "ID" : "7",
+      "Name" : "GOOGLE",
+      "Logo" : "https://www.google.com",
+      "Title" : "Google",
+      "Description" : "Google Inc., American search engine company, founded in 1998 by Sergey Brin and Larry Page, that is a subsidiary of the holding company Alphabet Inc. More than 70 percent of worldwide online search requests are handled by Google, placing it at the heart of most Internet users' experience"
+    },
+
+    {
+      "ID" : "8",
+      "Name" : "DELL",
+      "Logo" : "https://www.google.com",
+      "Title" : "Dell",
+      "Description" : "Dell Inc., which operates under the brand name Dell, is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services. ... Dell is the largest shipper of PC monitors worldwide"
+    },
+
+    {
+      "ID" : "9",
+      "Name" : "PHONEPE",
+      "Logo" : "https://www.google.com",
+      "Title" : "Phonepay",
+      "Description" : "PhonePe. PhonePe Private Limited, d/b/a PhonePe, is an Indian e-commerce payment system and digital wallet company headquartered in Bangalore, India. ... Using PhonePe, users can send and receive money, DTH, recharge mobile, data cards, make utility payments, buy gold and shop online and offline"
+    },
+
+    {
+      "ID" : "10",
+      "Name" : "APPLE",
+      "Logo" : "https://www.google.com",
+      "Title" : "Apple",
+      "Description" : "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. ... Its online services include the iTunes Store, the iOS App Store, Mac App Store, Apple Music, Apple TV+, iMessage, and iCloud."
+    }
+  ],
+
+  "message":"The status is False and information cannot be shown"
+
+
+}
